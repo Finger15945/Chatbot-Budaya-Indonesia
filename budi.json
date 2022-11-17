@@ -27,7 +27,9 @@
           {
             "tag": "help",
             "patterns": [
-              "Apa itu Budi?"
+              "Apa itu Budi?",
+              "Fungsi Budi?",
+              "Tugas Budi?"
             ],
             "responses": [
               "Budi merupakan Chatbot yang bisa membantumu menjawab pertanyaan seputar Budaya Indonesia, seperti Rumah Adat, Senjata Tradisional, Pakaian Adat, Alat Musik Tradisional, Kerajinan, Lagu Daerah, Makanan Khas, dan Tarian Daerah."
