@@ -1,0 +1,231 @@
+@import url('https://fonts.cdnfonts.com/css/games');
+
+body {
+    background-image: url('../images/bgb_new.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    max-width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.campus {
+    width: auto;
+    height: 40px;
+    margin-top: -30px;
+}
+
+.orbit {
+    width: auto;
+    height: 38px;
+    margin-top: -30px;
+}
+
+.power {
+    width: auto;
+    height: 47px;
+    font-weight: 500;
+    margin-top: -30px;
+}
+
+
+/* .btn {
+    border-radius: 3em;
+    padding: .7em 5em;
+} */
+
+
+
+/* 
+@media screen and (min-width: 1280px) {
+    .people-icon > img {
+        margin-top: 2rem;
+        width: 380px;
+        margin-right: 2rem;
+    }
+
+    .logo{
+        text-align: center;
+        margin-left: 2rem;
+    }
+    .campus {
+        width: auto;
+        height: 40px;
+    }
+
+    .orbit {
+        width: auto;
+        height: 40px;
+    }
+
+    .power {
+        width: auto;
+        height: 47px;
+    }
+
+    .bot-text>.title {
+        font-size: 50px;
+        color: white;
+        font-family: 'games';
+        font-weight: 500px;
+    }
+
+    .valign {
+       margin-top: 1.7rem;
+       margin-bottom: 2rem;
+    }
+    
+} */
+
+/* after */
+
+#landing{
+    width: 100%;
+    position: relative;
+    padding: 120px 0 0 0;
+  }
+
+#landing h3 {
+    margin: 0 0 20px 0;
+    font-size: 30px;
+    line-height: 56px;
+    color: rgba(255, 255, 255, 0.8);
+  }
+  
+  #landing h1 {
+    color: rgba(255, 255, 255, 0.8);
+    margin-bottom: 40px;
+    font-size:110px;
+    color: white;
+    font-family: 'games';
+    font-weight: 500px;
+  }
+
+  #landing h4{
+    color: white;
+  }
+
+
+  #landing .budi{
+    margin-left: 5rem;
+  }
+
+  
+  #landing .btn {
+    margin: 1rem; 
+    padding: .7em 5em;
+    border-radius: 3em;
+  }
+  
+
+  
+  
+  @media (min-width: 1024px) {
+    #landing {
+      background-attachment: fixed;
+    }
+  }
+  
+  @media (max-width: 991px) {
+    #landing {
+      padding-top: 80px;
+    }
+
+  
+    #landing .hero-img {
+      text-align: center;
+    }
+  
+    #landing .hero-img img {
+      max-width: 60%;
+    }
+
+    #landing .greeting{
+        margin-left: 15rem;
+    }
+  
+    #landing h3 {
+      font-size: 30px;
+      line-height: 32px;
+      margin-bottom: 40px;
+    }
+  
+    #landing h1 {
+      font-size: 70px;
+      line-height: 24px;
+      margin-bottom: 35px;
+    }
+
+    #landing h4{
+        line-height: 16px;
+        margin-bottom: 10px;
+        font-size: 20;
+        margin-bottom: 35px;
+    }
+  }
+  
+  @media (max-width: 575px) {
+    #landing .hero-img img {
+      width: 80%;
+    }
+    #landing .greeting{
+        margin-left: 3rem;
+    }
+  
+    #landing h3 {
+      font-size: 30px;
+      line-height: 32px;
+      margin-bottom: 40px;
+    }
+  
+    #landing h1 {
+      font-size: 70px;
+      line-height: 24px;
+      margin-bottom: 35px;
+    }
+
+    #landing h4{
+        line-height: 16px;
+        margin-bottom: 10px;
+        font-size: 20;
+        margin-bottom: 35px;
+    }
+
+    .logo{
+        margin-left: 2rem;
+    }
+  }
+
+
+
+
+
+/* before */
+/* .landing-page,
+.landing-page>.container>.row {
+  height: 100vh;
+  min-height: 880px;
+}
+
+#landing h1{
+    font-size:110px;
+    color: white;
+    font-family: 'games';
+    font-weight: 500px;
+    line-height: 32;
+
+}
+
+#landing h3{
+    color: white;
+    font-size: 30px;
+    margin: 0 0 20px 0;
+
+}
+
+#landing h4{
+    color: white;
+    line-height: 24;
+
+} */
