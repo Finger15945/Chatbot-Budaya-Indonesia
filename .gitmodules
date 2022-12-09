@@ -1,0 +1,3 @@
+[submodule "FlaskBudi"]
+	path = FlaskBudi
+	url = https://github.com/Finger15945/budi.git
